@@ -64,3 +64,111 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.container {
+	width: 95%;
+	margin: auto;
+	margin-top: 15px;
+	margin-bottom: 100px;
+	margin-left: 100px;
+}
+#logo-cont {
+	float: right;
+	width: 10%;
+	height:10px;
+
+}
+
+nav {
+	float: left;
+	width: 950px;
+	height: 50px;
+	margin-top: 10px;
+}
+nav a {
+padding-right: 10%;
+text-decoration: none;
+color: grey;
+}
+#button-box {
+	width: 600px;
+	height: 500px;
+	float: left;
+	margin-left: 15px;
+	text-align: center;
+}
+#img-div {
+	width: 400px;
+	height: 500px;
+	float: right;
+	margin-right: 15px;
+	text-align: left;
+}
+#feat-container{
+	margin-top: 65px;
+	width: 90%;
+	margin: auto;
+	padding-top: 65px;
+	
+}
+#features{
+	width: 400px;
+	height: 200px;
+	float: left;
+	margin-left: 15px;
+}
+#about{
+	width: 400px;
+	height: 200px;
+	float: right;
+}
+#button-header {
+	font-size: 120px;
+}
+.header-2 {
+ border-bottom: 3px solid black;
+ height: 550px;
+ width: 90%;
+ margin: auto;
+}
+.middle-img {
+	display: block;
+	width: 90%;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.serv-container {
+	width: 90%;
+	height: 400px;
+	border-bottom: 3px solid black; 
+	margin: auto;
+	padding-top: 100px;
+}
+#services {
+	float: left;
+	width: 200px;
+	height: 150px;
+	margin: auto;
+	margin-left: 15px;
+}
+#product {
+	width: 200px;
+	height: 150px;
+	display: inline-block;
+	margin-left: 300px;
+}
+#vision {
+	width: 200px;
+	height: 150px;
+	margin: auto;
+	float: right;
+}
+#foot {
+	width: 90%;
+	margin: auto;
+	padding-top: 20px;
+}
+#copy {
+	text-align: center;
+}
